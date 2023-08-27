@@ -9,7 +9,8 @@ module.exports = {
     'plugin:@typescript-eslint/recommended', // TypeScript rules
     'plugin:react/recommended', // React rules
     'plugin:react-hooks/recommended', // Hook-specific rules
-    'airbnb-typescript' 
+    'airbnb',
+    'airbnb-typescript'
   ],
   parser: '@typescript-eslint/parser',
   parserOptions: {
